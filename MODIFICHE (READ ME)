@@ -1,0 +1,14 @@
+Rispetto alla consegna originale, cioe' il mio progetto prevedeva lo sviluppo in tutta
+la documentazione srs sdd e di conseguenza del loro sviluppo i seguenti UC:
+	-Inserimento Apps
+	-Cancellazione Apps
+	-Estrazione Lista Apps ( per ogni store del sistema)
+la mia consegna finale cambia nel fatto che io non ho implementato l'estrazione 
+(ho implementato la visualizzazione) visti i problemi che ci sono stati con FINSA.
+
+Stesse motivazioni riguardano le varie connessioni che andavano implementate con i vari
+app store.
+
+Rispetto a quello scritto nel documento srs e sdd, gli UC2 e UC3 variano rispetto
+all'implementazione dal fatto che l'utente aggiungera/cancellera una sola app per volta
+invece che piu di una come scritto nei vari documenti
